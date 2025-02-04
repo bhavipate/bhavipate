@@ -58,6 +58,5 @@
   </tr>
 </table>
 <br>
-<div>
-  <img align="left" style="height:202px; width:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavipate&theme=vue-dark&hide_border=true" alt="bhavipate" />
-</div>
+
+  <div><img align="left" style="height:202px; width:auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavipate&show_icons=true&locale=en&layout=compact" alt="bhavipate" /></div>
