@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhavi Patel</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Bhavi+Patel" alt="Name" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Mastek;AWS+%26+AI+Explorer;Claude+AI+Certified;Building+Future-Ready+AI+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%40+Mastek;🧠+Machine+Learning+%26+Deep+Learning;🔮+Claude+AI+Professional+Certified;☁️+AWS+%7C+Azure+%7C+GCP+Expert;🚀+Transforming+Data+into+Intelligence" alt="Typing animation" />
 </p>
 
 <h3 align="center">
