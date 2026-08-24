@@ -33,7 +33,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Languages%20%26%20Tools&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a>
@@ -59,36 +59,20 @@
   <a href="https://www.r-project.org" title="R"><img src="https://skillicons.dev/icons?i=r" width="48" /></a>
 </p>
 
-<details>
-<summary>⚙️ Automation & RPA</summary>
-<br>
 <p align="center">
-  <a href="https://www.uipath.com" title="UIPath"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="48" height="48" /></a>&nbsp;
-  <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a>
+  <a href="https://www.uipath.com" title="UiPath"><img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" /></a>
+  <a href="https://www.tableau.com" title="Tableau"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="https://www.sap.com" title="SAP"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /></a>
+  <a href="https://www.anaconda.com" title="Anaconda"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
+  <a href="https://streamlit.io" title="Streamlit"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
 </p>
-</details>
-
-<details>
-<summary>📊 Data & Analytics</summary>
-<br>
-<p align="center">
-  <a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.simpleicons.org/tableau" width="48" height="48" /></a>&nbsp;
-  <a href="https://www.anaconda.com" title="Anaconda"><img src="https://cdn.simpleicons.org/anaconda/44A833" width="48" height="48" /></a>&nbsp;
-  <a href="https://streamlit.io" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" /></a>&nbsp;
-  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a>&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /></a>
-</p>
-</details>
-
-<details>
-<summary>🏢 Enterprise</summary>
-<br>
-<p align="center">
-  <a href="https://www.sap.com" title="SAP"><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" width="60" height="48" /></a>
-</p>
-</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
