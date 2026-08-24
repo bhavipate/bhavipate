@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="bhavipate's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
 
 <p align="center">
