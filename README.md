@@ -19,7 +19,7 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/bhavi-patel-2239a825a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://www.naukri.com/code360/profile/eed2d050-6941-4204-84cf-45b3fe4c7598" target="blank"><img src="https://files.codingninjas.com/new-cn-logos-1-1733819445.svg" alt="Coding Ninjas" height="20" width="auto" /></a></td>
-    <td><a href="https://www.credly.com/users/bhavi-patel.1c74c5e5" target="_blank"><img src="https://cdn.credly.com/assets/structure/logo-6a563f41a66826f3d8d40780cfdab9bd0d56920579d94b927ffe29341f7f2c7e.svg" alt="Credly" height="20" width="60" /></a></td>
+    <td><a href="https://www.credly.com/users/bhavi-patel.1c74c5e5" target="_blank"><img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" height="20" width="60" /></a></td>
     <td><a href="https://www.cloudskillsboost.google/public_profiles/c87b3b49-9e0f-404a-ac6e-65f797618aae" target="_blank"><img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="Google Cloud Skills Boost" height="20" width="60" /></a></td>
   </tr>
 </table>
@@ -43,7 +43,7 @@
     <td><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/></a></td>
     <td><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" alt="RLanguage" width="40" height="40"/></a></td>
     <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9Quvg6MLpGjisFG7Ls_d0jrz0fIAwvoAjQ&s" alt="Docker" width="40" height="40"/></a></td>
-    <td><a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="40" height="40"/></a></td>
+    <td><a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a></td>
     <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFY664XfYzr3HpCQ_KFgZnaRzVaGuEKzHUMA&s" alt="Unity" width="40" height="40"/></a></td>
   </tr>
   <tr>
