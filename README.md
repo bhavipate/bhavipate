@@ -33,7 +33,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
 
-<h3>Languages and Tools</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Languages%20%26%20Tools&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium,docker,azure,unity,bootstrap,cpp,css,dart,dotnet,express,flutter,gcp,git,html,java,js,linux,mysql,r&perline=10" />
@@ -47,6 +47,8 @@
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" width="40" height="40" />&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" width="40" height="40" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
