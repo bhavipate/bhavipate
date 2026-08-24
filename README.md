@@ -5,7 +5,12 @@
 </picture>
 
 <h1 align="center">Hi 👋, I'm Bhavi Patel</h1>
-<h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Mastek;AWS+%26+AI+Explorer;Claude+AI+Certified;Building+Future-Ready+AI+Solutions" alt="Typing animation" />
+</p>
+
+<h3 align="center">
   AI Engineer @ Mastek | AWS & AI Explorer | Claude AI Certified | Dynamic IT Professional | Driving Digital Transformation
 </h3>
 
@@ -28,9 +33,9 @@
 <h3>Languages and Tools</h3>
 <table>
   <tr>
-    <td><a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://www.uipath.com/steam-agency/static/ui-new-logo-31a64a60efd11c82dfeacfd3dd290306.svg" alt="UIPath" width="40" height="40"/></a></td>
+    <td><a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/uipath/FA4616" alt="UIPath" width="40" height="40"/></a></td>
     <td><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="40"/></a></td>
-    <td><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium" width="40" height="40"/></a></td>
+    <td><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="40" height="40"/></a></td>
     <td><a href="https://www.sap.com/india/index.html" target="_blank" rel="noreferrer"><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP" width="40" height="40"/></a></td>
     <td><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40" height="40"/></a></td>
   </tr>
@@ -65,4 +70,15 @@
 </table>
 <br>
 
-  <div><img align="left" style="height:202px; width:auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavipate&show_icons=true&locale=en&layout=compact" alt="bhavipate" /></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavipate&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavipate&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavipate&color=58a6ff&style=flat-square" alt="Profile views" />
+</p>
