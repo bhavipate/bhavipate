@@ -4,17 +4,13 @@
   <img alt="bhavipate's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<h1 align="center">Hi 👋, I'm Bhavi Patel</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=160&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=60&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=17&descAlignY=80" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Mastek;AWS+%26+AI+Explorer;Claude+AI+Certified;Building+Future-Ready+AI+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer+%40+Mastek;🧠+Machine+Learning+%26+Deep+Learning;🔮+Claude+AI+Professional+Certified;☁️+AWS+%7C+Azure+%7C+GCP+Expert;🚀+Transforming+Data+into+Intelligence" />
 </p>
 
-<h3 align="center">
-  AI Engineer @ Mastek | AWS & AI Explorer | Claude AI Certified | Dynamic IT Professional | Driving Digital Transformation
-</h3>
-
-<h3>Connect with me</h3>
+<h3>🔗 Connect with me</h3>
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/bhavi-patel-2239a825a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
@@ -24,9 +20,18 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-7928CA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF0080?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-00D8FF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLOps-F7DF1E?style=for-the-badge&logo=mlflow&logoColor=black" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
-<h3>About Bhavi</h3>
+<h3>🧠 About Bhavi</h3>
 <p>Bhavi Patel is an exceptional MCA student with a proven track record in AI, Machine Learning, Cloud Computing, and Full-Stack Development. She led a 1st place-winning Face Liveness Detection project and also developed a predictive healthcare system for accurate disease detection. Additionally, she has built a scalable e-commerce platform, optimizing user experience and backend operations.</p>
 <p>Currently working as an AI Engineer at Mastek, Bhavi is building intelligent, enterprise-grade AI solutions. She is proficient in a wide range of tools, frameworks, and technologies, with a proven ability to quickly grasp and apply new concepts. As both a skilled team leader and an effective team player, Bhavi excels in driving projects to success.</p>
 <p>Certified in Azure Data Fundamentals, DevOps, AWS, and Claude AI Professional, she combines technical expertise with a passion for innovation, consistently delivering high-impact, future-ready solutions.</p>
@@ -34,6 +39,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
 
 <h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" /></a>
+  <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /></a>
+  <a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" width="48" /></a>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" /></a>
+  <a href="https://www.kaggle.com" title="Kaggle"><img src="https://skillicons.dev/icons?i=kaggle" width="48" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a>
