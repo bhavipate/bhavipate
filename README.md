@@ -72,7 +72,7 @@
 <summary>📊 Data & Analytics</summary>
 <br>
 <p align="center">
-  <a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.simpleicons.org/tableau" width="48" height="48" /></a>&nbsp;
   <a href="https://www.anaconda.com" title="Anaconda"><img src="https://cdn.simpleicons.org/anaconda/44A833" width="48" height="48" /></a>&nbsp;
   <a href="https://streamlit.io" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" /></a>&nbsp;
   <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a>&nbsp;
@@ -97,3 +97,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhavipate&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
