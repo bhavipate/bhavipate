@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer+%40+Mastek;🧠+Machine+Learning+%26+Deep+Learning;🔮+Claude+AI+Professional+Certified;☁️+AWS+%7C+Azure+%7C+GCP+Expert;🚀+Transforming+Data+into+Intelligence" />
-</p>
-
 <h3>🔗 Connect with me</h3>
 <table>
   <tr>
