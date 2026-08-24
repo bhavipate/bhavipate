@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="bhavipate's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Bhavi+Patel" alt="Name" />
 </p>
