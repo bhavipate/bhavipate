@@ -1,4 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
+<h1 align="center">Hi 👋, I'm Bhavi Patel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Mastek;AWS+%26+AI+Explorer;Claude+AI+Certified;Building+Future-Ready+AI+Solutions" alt="Typing animation" />
+</p>
+
+<h3 align="center">
+  AI Engineer @ Mastek | AWS &amp; AI Explorer | Claude AI Certified | Dynamic IT Professional
+</h3>
 
 <h3>🔗 Connect with me</h3>
 <table>
