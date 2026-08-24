@@ -59,14 +59,34 @@
   <a href="https://www.r-project.org" title="R"><img src="https://skillicons.dev/icons?i=r" width="48" /></a>
 </p>
 
+<details>
+<summary>⚙️ Automation & RPA</summary>
+<br>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/uipath/FA4616" title="UIPath" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau" width="40" height="40" />&nbsp;
-  <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" title="SAP" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" width="40" height="40" />&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" width="40" height="40" />
+  <a href="https://www.uipath.com" title="UIPath"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a>
 </p>
+</details>
+
+<details>
+<summary>📊 Data & Analytics</summary>
+<br>
+<p align="center">
+  <a href="https://www.tableau.com" title="Tableau"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.anaconda.com" title="Anaconda"><img src="https://cdn.simpleicons.org/anaconda/44A833" width="48" height="48" /></a>&nbsp;
+  <a href="https://streamlit.io" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" /></a>
+</p>
+</details>
+
+<details>
+<summary>🏢 Enterprise</summary>
+<br>
+<p align="center">
+  <a href="https://www.sap.com" title="SAP"><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" width="60" height="48" /></a>
+</p>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
