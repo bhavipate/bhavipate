@@ -1,6 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="bhavipate's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Bhavi Patel</h1>
 <h3>
-  SAP Intern | AWS & AI Explorer | Dynamic IT Professional | Driving Digital Transformation
+  AI Engineer @ Mastek | AWS & AI Explorer | Claude AI Certified | Dynamic IT Professional | Driving Digital Transformation
 </h3>
 
 <h3>Connect with me</h3>
@@ -15,8 +21,8 @@
 
 <br> <h3>About Bhavi</h3>
 <p>Bhavi Patel is an exceptional MCA student with a proven track record in AI, Machine Learning, Cloud Computing, and Full-Stack Development. She led a 1st place-winning Face Liveness Detection project and also developed a predictive healthcare system for accurate disease detection. Additionally, she has built a scalable e-commerce platform, optimizing user experience and backend operations.</p>
-<p>Currently interning at SAP, Bhavi is gaining hands-on experience in enterprise solutions. She is proficient in a wide range of tools, frameworks, and technologies, with a proven ability to quickly grasp and apply new concepts. As both a skilled team leader and an effective team player, Bhavi excels in driving projects to success.</p>
-<p>Certified in Azure Data Fundamentals, DevOps, and AWS, she combines technical expertise with a passion for innovation, consistently delivering high-impact, future-ready solutions.</p>
+<p>Currently working as an AI Engineer at Mastek, Bhavi is building intelligent, enterprise-grade AI solutions. She is proficient in a wide range of tools, frameworks, and technologies, with a proven ability to quickly grasp and apply new concepts. As both a skilled team leader and an effective team player, Bhavi excels in driving projects to success.</p>
+<p>Certified in Azure Data Fundamentals, DevOps, AWS, and Claude AI Professional, she combines technical expertise with a passion for innovation, consistently delivering high-impact, future-ready solutions.</p>
 <br>
 
 <h3>Languages and Tools</h3>
