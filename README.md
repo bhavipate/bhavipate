@@ -1,4 +1,4 @@
-<picture>
+![<picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="bhavipate's GitHub profile" src="dark_mode.svg" />
@@ -71,12 +71,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavipate&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavipate&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
