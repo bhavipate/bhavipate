@@ -1,4 +1,14 @@
-<img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="bhavipate's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00D8FF&center=true&vCenter=true&width=750&lines=🤖+AI+Engineer+%40+Mastek;🧠+Machine+Learning+%26+Deep+Learning;🔮+Claude+AI+Professional+Certified;☁️+AWS+%7C+Azure+%7C+GCP+Expert;🚀+Transforming+Data+into+Intelligence" />
+</p>
 
 <h3>🔗 Connect with me</h3>
 <table>
@@ -19,14 +29,14 @@
   <img src="https://img.shields.io/badge/MLOps-F7DF1E?style=for-the-badge&logo=mlflow&logoColor=black" />
 </p>
 
-<img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
 <h3>🧠 About Bhavi</h3>
 <p>Bhavi Patel is an exceptional MCA student with a proven track record in AI, Machine Learning, Cloud Computing, and Full-Stack Development. She led a 1st place-winning Face Liveness Detection project and also developed a predictive healthcare system for accurate disease detection. Additionally, she has built a scalable e-commerce platform, optimizing user experience and backend operations.</p>
 <p>Currently working as an AI Engineer at Mastek, Bhavi is building intelligent, enterprise-grade AI solutions. She is proficient in a wide range of tools, frameworks, and technologies, with a proven ability to quickly grasp and apply new concepts. As both a skilled team leader and an effective team player, Bhavi excels in driving projects to success.</p>
 <p>Certified in Azure Data Fundamentals, DevOps, AWS, and Claude AI Professional, she combines technical expertise with a passion for innovation, consistently delivering high-impact, future-ready solutions.</p>
 
-<img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -72,10 +82,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 
 <p align="center">
@@ -86,4 +96,4 @@
   <img src="https://komarev.com/ghpvc/?username=bhavipate&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.demolab.com/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
