@@ -36,7 +36,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Languages%20%26%20Tools&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,docker,azure,unity,bootstrap,cpp,css,dart,dotnet,express,flutter,gcp,git,html,java,js,linux,mysql,r&perline=10" />
+  <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" /></a>
+  <a href="https://azure.microsoft.com" title="Microsoft Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" /></a>
+  <a href="https://unity.com" title="Unity"><img src="https://skillicons.dev/icons?i=unity" width="48" /></a>
+  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" /></a>
+  <a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" /></a>
+  <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" /></a>
+  <a href="https://dart.dev" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" /></a>
+  <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" width="48" /></a>
+  <a href="https://expressjs.com" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="48" /></a>
+</p>
+<p align="center">
+  <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" /></a>
+  <a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" width="48" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" /></a>
+  <a href="https://java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" /></a>
+  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a>
+  <a href="https://www.r-project.org" title="R"><img src="https://skillicons.dev/icons?i=r" width="48" /></a>
 </p>
 
 <p align="center">
