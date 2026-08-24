@@ -24,51 +24,29 @@
   </tr>
 </table>
 
-<br> <h3>About Bhavi</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
+
+<h3>About Bhavi</h3>
 <p>Bhavi Patel is an exceptional MCA student with a proven track record in AI, Machine Learning, Cloud Computing, and Full-Stack Development. She led a 1st place-winning Face Liveness Detection project and also developed a predictive healthcare system for accurate disease detection. Additionally, she has built a scalable e-commerce platform, optimizing user experience and backend operations.</p>
 <p>Currently working as an AI Engineer at Mastek, Bhavi is building intelligent, enterprise-grade AI solutions. She is proficient in a wide range of tools, frameworks, and technologies, with a proven ability to quickly grasp and apply new concepts. As both a skilled team leader and an effective team player, Bhavi excels in driving projects to success.</p>
 <p>Certified in Azure Data Fundamentals, DevOps, AWS, and Claude AI Professional, she combines technical expertise with a passion for innovation, consistently delivering high-impact, future-ready solutions.</p>
-<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
 
 <h3>Languages and Tools</h3>
-<table>
-  <tr>
-    <td><a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/uipath/FA4616" alt="UIPath" width="40" height="40"/></a></td>
-    <td><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="40"/></a></td>
-    <td><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="40" height="40"/></a></td>
-    <td><a href="https://www.sap.com/india/index.html" target="_blank" rel="noreferrer"><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP" width="40" height="40"/></a></td>
-    <td><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/></a></td>
-    <td><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" alt="RLanguage" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9Quvg6MLpGjisFG7Ls_d0jrz0fIAwvoAjQ&s" alt="Docker" width="40" height="40"/></a></td>
-    <td><a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a></td>
-    <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFY664XfYzr3HpCQ_KFgZnaRzVaGuEKzHUMA&s" alt="Unity" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a></td>
-    <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></td>
-    <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></td>
-    <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-  </tr>
-</table>
-<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,docker,azure,unity,bootstrap,cpp,css,dart,dotnet,express,flutter,gcp,git,html,java,js,linux,mysql,r&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/uipath/FA4616" title="UIPath" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau" width="40" height="40" />&nbsp;
+  <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" title="SAP" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" title="Streamlit" width="40" height="40" />&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" width="40" height="40" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
