@@ -75,10 +75,6 @@
 <img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhavipate&theme=dark" alt="GitHub Streak" />
 </p>
 
@@ -86,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=bhavipate&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" />
