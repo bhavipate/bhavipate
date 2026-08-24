@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BHAVI%20PATEL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Claude%20AI%20Certified&descSize=18&descAlignY=70" />
 
 <h3>🔗 Connect with me</h3>
@@ -75,7 +76,7 @@
 <img width="100%" src="https://capsule-render.demolab.com/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.demolab.com/?username=bhavipate&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 
 <p align="center">
@@ -86,4 +87,4 @@
   <img src="https://komarev.com/ghpvc/?username=bhavipate&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.demolab.com/graph?username=bhavipate&theme=react-dark&hide_border=true&area=true" />
